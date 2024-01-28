@@ -15,9 +15,13 @@
 Hello, this is a windowed application for creating load calculation graphs. The application is created in the Python programming language, using the MathPlotLib and TKinter libraries.
 
 
+
+
 С файлом .py можете ознакомиться в разделе "Documentation".
 
 With the file .py can be found in the "Documentation" section.
+
+
 
 
 Также там вы сможете найти архив со скомпилированным .exe приложением.
