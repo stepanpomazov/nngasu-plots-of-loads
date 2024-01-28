@@ -38,6 +38,6 @@ You can also find the compiled archive there.exe application.
 
 ## Developers
 
-- [StepanPomazov](https://gist.github.com/stepanpomazov)
+- [StepanPomazov](https://github.com/stepanpomazov)
 
 
