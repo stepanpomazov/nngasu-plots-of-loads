@@ -3,26 +3,21 @@
 </p>
 
 <p align="center">
-   <img src="" alt="Unity Version">
-   <img src="" alt="Game Version">
-   <img src="" alt="License">
+   <img src="" alt="">
+   <img src="" alt="">
+   <img src="" alt="">
 </p>
 
 ## About
 
-About Text Here
+Hello, this is a windowed application for creating load calculation graphs. The application is created in the Python programming language, using the MathPlotLib and TKinter libraries.
 
 ## Documentation
 
-Documentation Here
-
-## Distribute
-
-- [Service Name](Page Link)
-
+***
 
 ## Developers
 
-- [Delevoper Name](GitHub Profile Link)
+- [StepanPomazov](https://gist.github.com/stepanpomazov)
 
-## License
+
