@@ -10,7 +10,7 @@
 
 ## About
 
-Здравствуйте, это Оконное приложение для создания графиков рассчёта нагрузок. Приложение создано на языке программирования Python, с использованием библиотек MathPlotLib и TKinter.
+Здравствуйте, это оконное приложение для создания графиков рассчёта нагрузок. Приложение создано на языке программирования Python, с использованием библиотек MathPlotLib и TKinter.
 
 Hello, this is a windowed application for creating load calculation graphs. The application is created in the Python programming language, using the MathPlotLib and TKinter libraries.
 
