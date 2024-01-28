@@ -14,6 +14,8 @@ Hello, this is a windowed application for creating load calculation graphs. The 
 
 ## Documentation
 
+-[a link](https://github.com/stepanpomazov/nngasu-plots-of-loads/blob/main/vis.pyw)
+
 ***
 
 ## Developers
