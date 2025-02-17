@@ -35,6 +35,8 @@ You can also find the compiled archive there.exe application.
 
 ## Documentation
 
+-[Публикация](https://elibrary.ru/item.asp?id=76405368)
+
 -[.py file](https://github.com/stepanpomazov/nngasu-plots-of-loads/blob/main/vis.pyw)
 
 -[.exe rar](https://github.com/stepanpomazov/nngasu-plots-of-loads/blob/main/exe.rar)
