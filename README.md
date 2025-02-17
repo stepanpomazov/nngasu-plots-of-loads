@@ -1,5 +1,5 @@
 <p align="center">
-      <img src="https://i.postimg.cc/sDrpGMcw/iqocltre.png" width="150" height="150">
+      <img src="https://i.postimg.cc/sDrpGMcw/iqocltre.png" width="200" height="200">
 </p>
 
 <p align="center">
